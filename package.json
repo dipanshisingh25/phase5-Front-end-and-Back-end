@@ -7,8 +7,8 @@
     "doc": "doc"
   },
   "scripts": {
-  "start": "node backend/server.js"
-},
+    "start": "node backend/server.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dipanshisingh25/phase5-Front-end-and-Back-end.git"
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/dipanshisingh25/phase5-Front-end-and-Back-end#readme",
   "dependencies": {
+    "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
     "mongoose": "^9.9.5"

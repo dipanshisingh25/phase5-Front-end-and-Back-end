@@ -1,0 +1,29 @@
+{
+  "name": "phase5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+  "start": "node backend/server.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dipanshisingh25/phase5-Front-end-and-Back-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dipanshisingh25/phase5-Front-end-and-Back-end/issues"
+  },
+  "homepage": "https://github.com/dipanshisingh25/phase5-Front-end-and-Back-end#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.9.5"
+  }
+}
